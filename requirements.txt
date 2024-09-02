@@ -2,3 +2,5 @@ jupyterlab
 pytest
 matplotlib
 pandas
+# .env file read
+python-dotenv
