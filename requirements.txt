@@ -4,3 +4,5 @@ matplotlib
 pandas
 # .env file read
 python-dotenv
+# http requests
+httpx
