@@ -1,4 +1,6 @@
+# Local python environment specific
 .pip
 .venv
 .env
-.geocoding_cache.csv
+# Geocoding cache
+.geocoding-cache.csv
