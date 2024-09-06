@@ -4,3 +4,5 @@
 .env
 # Geocoding cache
 .geocoding-cache.csv
+# Python bytecode
+__pycache__
